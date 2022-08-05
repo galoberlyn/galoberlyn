@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1Mq6u-Zz7p_uOcYKiGzp0wpD1e0D0c9nO/view?usp=sharing)](https://github.com/galoberlyn)
+[![MasterHead](https://drive.google.com/u/0/uc?id=1Mq6u-Zz7p_uOcYKiGzp0wpD1e0D0c9nO&export=download)](https://github.com/galoberlyn)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
