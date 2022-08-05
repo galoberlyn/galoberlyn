@@ -49,16 +49,19 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://capacitorjs.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://cloud.google.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" alt="python" width="40" height="40"/> 
+    <img src="" alt="python" width="40" height="40"/> 
   </a> 
   
   <p> etc, whatever I need at the moment 😊</p>
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galoberlyn)](https://git.io/streak-stats)
+<br />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galoberlyn)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=galoberlyn&theme=onedark)](https://github.com/galoberlyn/github-profile-trophy)
+<br />
 
