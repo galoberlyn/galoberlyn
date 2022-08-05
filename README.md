@@ -28,7 +28,7 @@
       <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg.svg" alt="python" width="40" height="40"/> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org" target="_blank"> 
     <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original.svg" alt="python" width="40" height="40"/> 
