@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/galoberlyn/cdn-images/blob/master/github/banner.png)](https://github.com/galoberlyn)
+
 
 <br />
 
@@ -55,7 +55,7 @@
   <a href="https://cloud.google.com" target="_blank"> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <p> etc, whatever I need at the moment 😊</p>
+  <p> Whatever I need at the moment</p>
 </p>
 
 <br />
