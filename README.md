@@ -1,71 +1,58 @@
+<h1 align="center">Hey there 👋, I'm Galo Berlyn</h1>
+<h3 align="center">Senior Software Engineer</h3>
 
-
-<br />
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="linkedin.com/in/galo-berlyn-g-083943141" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/galoberlyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.facebook.com/galoberlyn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/galo-berlyn-g-083943141" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/galoberlyn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://facebook.com/galoberlyn" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 </p>
 
-<br />
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/go/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="node" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://threejs.org/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="three" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/git/" target="_blank">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.linux.org/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
-  <a href="https://nextjs.org" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next" width="40" height="40"/> 
-  </a> 
-  <a href="https://php.net" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://code.visualstudio.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.laravel.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/> 
-  </a> 
-  <a href="https://cloud.google.com" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt="gcp" width="40" height="40"/> 
-  </a> 
+### About Me
+- I’m a **full-stack engineer** passionate about software architecture, AI, and crafting elegant user experiences.  
+- I run things at [**Studio 074**](https://studio074.dev) helping businesses build reliable, scalable digital products.  
+- Always exploring **cloud architecture**, **software design patterns**, and **AI-driven systems**.  
+
+---
+
+### Languages & Tools
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="45" height="45" alt="Three.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45" height="45" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
 </p>
 
-<br />
+---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=galoberlyn)](https://git.io/streak-stats)
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=galoberlyn&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galoberlyn&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galoberlyn)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-<br />
+### Fun Fact
+Outside of coding, I love filming and making the perfect espresso shots.
 
+---
 
-
+⭐️ From [Galo Berlyn](https://github.com/galoberlyn)
