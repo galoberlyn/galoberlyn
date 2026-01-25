@@ -17,7 +17,6 @@
 
 ### About Me
 - I’m a **full-stack engineer** passionate about software architecture, AI, and crafting elegant user experiences.  
-- I run things at [**Studio 074**](https://studio074.dev) helping businesses build reliable, scalable digital products.  
 - Always exploring **cloud architecture**, **software design patterns**, and **AI-driven systems**.  
 
 ---
